@@ -11,7 +11,7 @@ import SwiftUI
 struct NavigationLinkConfusionAgainApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AllPlansView()
         }
     }
 }
